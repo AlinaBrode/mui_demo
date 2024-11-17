@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlinaBrode/mui_demo/static/css/main.e6c13ad2.css",
+    "main.js": "/AlinaBrode/mui_demo/static/js/main.ab86b2aa.js",
+    "static/js/453.daa54d0a.chunk.js": "/AlinaBrode/mui_demo/static/js/453.daa54d0a.chunk.js",
+    "index.html": "/AlinaBrode/mui_demo/index.html",
+    "main.e6c13ad2.css.map": "/AlinaBrode/mui_demo/static/css/main.e6c13ad2.css.map",
+    "main.ab86b2aa.js.map": "/AlinaBrode/mui_demo/static/js/main.ab86b2aa.js.map",
+    "453.daa54d0a.chunk.js.map": "/AlinaBrode/mui_demo/static/js/453.daa54d0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ab86b2aa.js"
+  ]
+}

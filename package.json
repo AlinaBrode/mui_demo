@@ -2,7 +2,7 @@
   "name": "mui-task-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlinaBrode/mui_demo",
+  "homepage": "https://alinabrode.github.io/mui_demo",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
